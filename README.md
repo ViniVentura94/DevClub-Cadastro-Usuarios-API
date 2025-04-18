@@ -79,7 +79,7 @@ Boas práticas com .env e .gitignore
 
 Separação clara entre front e back
 
-Deploy escalável com Node e serviços externos (em breve 🚀)
+Deploy escalável com Node e serviços externos
 
 ---
 
